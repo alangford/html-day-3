@@ -1,0 +1,83 @@
+
+body {
+    background-color: lightgrey;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.first-div {
+    background-color: white;
+    width: 70vw;
+   height: 20vh;
+    margin:auto;
+    padding:50px;
+}
+.first-ipsum{
+    text-align: center;
+    width: 40vw;
+    padding-bottom:2vh;
+    margin: auto;
+}
+.button1{
+    float:left;
+    margin:10px 0 10px 10px;
+    padding-top: 1vh;
+    height: 5vh;
+    width: 10vw;
+    color: white;
+    background-color: red;
+     text-align: center;
+}
+.button2{
+    float:left;
+    margin: 10px 0 10px 30px;
+    padding-top: 1vh;
+    height: 5vh;
+    width: 10vw;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+
+
+.second-div{
+    width: 81vw;
+    background-color: white;
+   
+    height: 60vh;
+    margin:auto;
+}
+.insert-img {
+    background-color: black;
+    text-align: center;
+    height: 15vh;
+    border: solid white 4vh;
+    padding: 15vh 10vw 5vh 10vw;
+    margin: 3vh 3vw 3vh 3vw;
+    color: white;
+}
+
+.second-ipsum{
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+
+footer {
+    margin-top: 8vh;
+    background-color: black;
+    width: 100vw;
+    height: 10vh;
+    color: snow;
+}
+.apple {
+    float: right;
+    margin-right: 30px;
+}
+.google {
+    float: right;
+     margin-right: 30px;
+}

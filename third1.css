@@ -1,0 +1,63 @@
+
+
+
+body{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+header{
+    width: 99vw;
+    height: 10vh;
+    background-color: black;
+}
+.apple{
+    float: left;
+    color: white;
+    margin-left: 3vw;
+    margin-right: 4vw;
+}
+.google {
+    float:left;
+    color: white;
+}
+.div1{
+    float:right;
+    height: 70vh;
+    width: 30vw;
+    margin-right: 10vw;
+    border: solid white 20px;
+    
+}
+.div2{
+    float:right;
+    height: 70vh;
+    width: 30vw;
+    margin-right: 20vw;
+    border: solid white 20px;
+   
+    
+}
+p {
+    padding:10px;
+}
+.img{
+    background-color: grey;
+    width: 30vw;
+    height: 30vh;
+    border:solid white 10px;
+    
+   
+}
+
+
+
+
+
+footer {
+    clear: right;
+    margin-top: 99vh;
+    background-color: black;
+    width: 100vw;
+    height: 8vh;
+}

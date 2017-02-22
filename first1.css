@@ -1,0 +1,93 @@
+.first-div {
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    
+}
+
+.red {
+    background-color: red;
+    float: left;
+    height: 120px;
+    width: 30%;
+    margin-right: 15px;
+    
+
+}
+.blue{
+    background-color: cornflowerblue;
+    float: left;
+     height: 120px;
+    width: 30%;
+    margin-right: 15px;
+}
+.black {
+    background-color: black;
+    float: left;
+     height: 120px;
+    width: 30%;
+}
+.first-ipsum {
+    clear: left;
+    height: 100px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.second-ipsum {
+    clear: left;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.second-div {
+    margin: auto;
+    padding: auto;
+    width:97%;
+    
+}
+.red2 {
+    background-color: red;
+    height: 100%;
+    width: 25vw;
+    float:left;
+    
+     margin-bottom: 30px;
+}
+.blue2 {
+    background-color: blue;
+     height: 30%;
+    width: 95vw;
+    float:right;
+    margin-bottom: 30px;
+
+}
+.third-div {
+    margin: auto;
+    padding: auto;
+    width:97%;
+    
+}
+
+
+
+.blue3{
+    clear:right;
+    background-color: blue;
+    height: 30%;
+    width:95vw;
+    margin: 0 20 20 30;
+}
+.red3{
+    background-color: red;
+    height: 100%;
+    width:25vw;
+    float:right;
+    
+}
+.black2 {
+    background-color: black;
+    height: 100%;
+    width:15vw;
+    margin: 0 20% 0 20%;
+    
+}
